@@ -4,3 +4,6 @@ The chemistry solver utilizes the NASA9 polynomials to generate equilibrium tabl
 The flow solver solves the governing equations for Local Thermodynamic Equilibrium (LTE) flows to calculate the flowfield inside a converging-diverging nozzle.
 
 Side project to get an in-depth understanding of CFD, numerical methods, and LTE and NLTE flows.
+
+
+Currently under development!
