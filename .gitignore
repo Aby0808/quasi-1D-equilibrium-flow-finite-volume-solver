@@ -1,0 +1,13 @@
+# MATLAB
+*.m~
+*.mat
+*.fig
+
+# Results / output
+Results/
+output/
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
