@@ -1,5 +1,6 @@
 # MATLAB
 *.m~
+*.asv
 *.mat
 *.fig
 
